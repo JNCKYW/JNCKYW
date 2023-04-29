@@ -2,7 +2,7 @@
 
 <h3 align="center">Started my coding journey in october 2022 and still learning 🧠 I'm mostly interested in programming but there is still a small room left for my other passion formula 1 🏁 Personal development and investment in yourself is the best decision you can make in your life 💹</h3>
 
-
+<p></p>
 
 - 🌱 I’m currently learning **JavaScript & git / github**
 
