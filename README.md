@@ -5,7 +5,7 @@
 - 🧠 Learning path I chosen to start with: [✅HTML/CSS] ➡➡  [⏳ JavaScript & GIT/GITHUB] ➡➡ [❌ REACT] 
 - 🎓 Other stuff I want to learn in future: TypeScript, Vue.js, Node.js, Sass
 
-- 📫 You can reach me by email januszwoj77@gmai.com
+- 📫 You can reach me by email januszwoj77@gmail.com
 
 <!---
 JNCKYW/JNCKYW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
