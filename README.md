@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Janusz</h1>
 <h3 align="center">Started my coding journey in october 2022 and still learning. I’m mostly interested in programming but there is still a small room left for my other passion formula 1 🏁 💹 Personal development and investment in yourself is the best decision you can make in your life.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jnckyw&label=Profile%20views&color=0e75b6&style=flat" alt="jnckyw" /> </p>
-
 - 🌱 I’m currently learning **JavaScript & git / github**
 
 - 📫 How to reach me **januszwoj77@gmail.com**
