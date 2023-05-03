@@ -1,8 +1,9 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4E16AQFTcEAkoGldMA/profile-displaybackgroundimage-shrink_200_800/0/1635435070888?e=2147483647&v=beta&t=FdXPhIC2ZlIheNlXVkByeZCBPYEWsWdFqr7Eh6v4SS4)](https://rishavchanda.io)
 
-<h3 align="center">Started my coding journey in october 2022 and still learning 🧠 I'm mostly interested in programming but there is still a small room left for my other passion formula 1 🏁 Personal development and investment in yourself is the best decision you can make in your life 💹</h3>
+<h1 align="center">Hi 👋, I'm Janusz</h1>
+<h3 align="center">Started my coding journey in october 2022 and still learning. I’m mostly interested in programming but there is still a small room left for my other passion formula 1 🏁 💹 Personal development and investment in yourself is the best decision you can make in your life.</h3>
 
-<p></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jnckyw&label=Profile%20views&color=0e75b6&style=flat" alt="jnckyw" /> </p>
 
 - 🌱 I’m currently learning **JavaScript & git / github**
 
@@ -23,6 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jnckyw&show_icons=true&locale=en" alt="jnckyw" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jnckyw&" alt="jnckyw" /></p>
+
 
 
 <!---
