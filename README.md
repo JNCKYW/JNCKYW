@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **januszwoj77@gmail.com**
 
-- ⚡ Fun fact **I really enjoy cooking and my hidden passion is making classic neapolitan pizza 🍕**
+- ⚡ Fun fact **I love cooking and my hidden passion is making classic neapolitan pizza 🍕**
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
