@@ -3,12 +3,12 @@
 <h3 align="center">I Started my coding journey back in october 2022 and still learning 🧠 I’m mostly interested in programming but there is still a small room left for my other big passion: FORMULA 1 🏁 Personal development and investment in yourself is the best decision you can make in your life 💹</h3>
 </br>
 <p align="center">
-- 🌱 I’m currently learning JavaScript & git / github
+- 🌱 I’m currently learning JavaScript & git / github</p>
+<p align="center">
+- 📫 How to reach me **januszwoj77@gmail.com**</p>
+<p align="center">
+- ⚡ Fun fact **I love cooking and my hidden passion is making classic neapolitan pizza 🍕**</p>
 
-- 📫 How to reach me **januszwoj77@gmail.com**
-
-- ⚡ Fun fact **I love cooking and my hidden passion is making classic neapolitan pizza 🍕**
-</p>
 </br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
