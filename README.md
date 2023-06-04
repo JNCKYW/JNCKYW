@@ -5,9 +5,9 @@
 <p align="center">
 - 🌱 I’m currently learning JavaScript & git / github</p>
 <p align="center">
-- 📫 How to reach me **januszwoj77@gmail.com**</p>
+- 📫 How to reach me: januszwoj77@gmail.com</p>
 <p align="center">
-- ⚡ Fun fact **I love cooking and my hidden passion is making classic neapolitan pizza 🍕**</p>
+- ⚡ Fun fact: I love cooking and my hidden passion is making classic neapolitan pizza 🍕</p>
 
 </br>
 <h3 align="center">Connect with me:</h3>
