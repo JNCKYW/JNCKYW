@@ -1,4 +1,4 @@
-[![MasterHead](https://media.istockphoto.com/id/1167600197/pl/wektor/koncepcja-baneru-internetowego-rozwoju-frontu.jpg?s=170667a&w=0&k=20&c=fIak3373mQu94_Rm1q8LQef7QnLzBTL7ejhor_QqYrs=)](https://rishavchanda.io)
+[![MasterHead](https://glivera-team.com/wp-content/uploads/2019/11/fronend-blog.jpg](https://rishavchanda.io)
 
 <h3 align="center">I Started my coding journey back in october 2022 and still learning 🧠 I’m mostly interested in programming but there is still a small room left for my other big passion: FORMULA 1 🏁 Personal development and investment in yourself is the best decision you can make in your life 💹</h3>
 </br>
