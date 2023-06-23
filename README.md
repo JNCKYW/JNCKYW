@@ -3,7 +3,7 @@
 <h3 align="center">I Started my coding journey back in october 2022 and still learning 🧠</br> I’m mostly interested in programming but there is still a small room left for my other big passion: F1 🏁 </br> Personal development and investment in yourself is the best decision you can make in your life 💹</h3>
 </br>
 <p align="center">
-- 🌱 I’m currently learning JavaScript & git / github</p>
+- 🌱 Status: I’m currently learning JavaScript & git / github</p>
 <p align="center">
 - 📫 How to reach me: januszwoj77@gmail.com</p>
 <p align="center">
